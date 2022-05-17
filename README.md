@@ -3,7 +3,7 @@
 <!-- solved.ac from https://github.com/mazassumnida/mazassumnida -->
 <!-- line_height=x ===> make two stats single horizontal layout? -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=crack-love&hide=stars,contribs&count_private=true&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crack-love&layout=compact&theme=merko&hide=c,objective-c&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crack-love&layout=compact&theme=merko&hide=c,objective-c&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=masterchip)](https://solved.ac/masterchip) -->
 
 ### 🐦 Links 
