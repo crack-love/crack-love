@@ -1,14 +1,16 @@
-### 🐤 Stats
+
 <!-- github stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- solved.ac from https://github.com/mazassumnida/mazassumnida -->
 <!-- stats themes: merko, radical -->
+## 🐤 Stats
+### Git 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=crack-love&hide=stars,contribs&count_private=true&theme=radical&show_icons=true&hide_border=true&custom_title=Git%20Stats&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crack-love&layout=compact&theme=radical&hide=c,objective-c&card_width=445&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🦅 solved.ac
+### solved.ac 
 [![Solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=masterchip)](https://solved.ac/masterchip)
 
-### 🐦 Links 
+## 🐦 Links 
 <!-- blog https://blog.naver.com/masterchip -->
 <!-- github https://github.com/crack-love -->
 <!-- youtube https://www.youtube.com/channel/UCrjMFJE_rUYMhpmK6-20lYQ -->
