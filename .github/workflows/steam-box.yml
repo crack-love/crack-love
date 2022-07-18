@@ -26,14 +26,17 @@ jobs:
         with:
           go-version: ^1.14
         id: go
+      
       - name: Check out repo
         uses: actions/checkout@v2
       - uses: actions/setup-go@v2
+      
       - name: Clone and run steam-box
         run: |-
           git clone https://github.com/crack-love/steam-box.git 
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
+      
       - name: Commit and push
         run: |-
           ./steam
