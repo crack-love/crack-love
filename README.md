@@ -21,6 +21,15 @@
 [![Solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=masterchip)](https://solved.ac/masterchip)
 
 <!-- steam-box start -->
+🎮 Steam playtime leaderboard
+```text
+🎮 Company of Heroes 2              🕘 462 hrs 23 mins
+🎮 Pathfinder: Kingmaker            🕘 187 hrs 11 mins
+🌏 Sid Meier's Civilization V       🕘 151 hrs 12 mins
+🎮 Company of Heroes: Tales of Valor 🕘 87 hrs 19 mins
+🎮 Borderlands 2                    🕘 69 hrs 30 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 
