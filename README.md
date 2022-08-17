@@ -18,17 +18,19 @@
   <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=masterchip" width="500px" alt="(solve.ac stat)"/> </a>
 </p>
 
-## :rabbit: Attributes
+## :rabbit2: Attributes
 - Kumoh National Institute of Technology Bachelor's dgree
   - Computer Software Engineering
 - Unity Engine
   - HLSL Shader (Forward/Deferred Rendering)
-  - Compute Shader (GPU Computing)
-  - IMGUI (Editor GUI)
+  - GPU Computing (Compute Shader)
+  - Editor GUI (IMGUI)
 - Unreal Engine basic
-- MarchingCubes (Voxel Geometry)
+- Dotnet Windows Forms
+- Voxel Geometry (MarchingCubes algorithm)
+- CNN (Keras)
 
-## :cat: Projects
+## :cat2: Projects
 ### Research 
 - Military Equipment Performance Test Stimulation (Unity 3D)
   - Korea Agency for Defense Developmemt
