@@ -9,15 +9,13 @@
 <!-- youtube https://www.youtube.com/channel/UCrjMFJE_rUYMhpmK6-20lYQ -->
 
 ## 🐤 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crack-love&count_private=true&theme=radical&show_icons=true&hide_title=false&include_all_commits=false&hide_rank=true&custom_title=Git%20Stats" width="50.5%" alt="(git commit stat)"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crack-love&theme=radical&hide_title=false&langs_count=4" width="44.5%" alt="(git langs stat)"/>
+<p align=center>
+  <img width=210px alt=(git commit stat) src="https://github-readme-stats.vercel.app/api?username=crack-love&count_private=true&theme=radical&show_icons=true&hide_title=false&include_all_commits=false&hide_rank=false&custom_title=Git%20Stats&line_height=22&hide_rank=true" />
+  <img width=290px alt="(git langs stat)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crack-love&theme=radical&hide_title=false&langs_count=6&layout=compact"/>
 </p>
-<p align="center">
+<p align=center>
   <a href="https://solved.ac/profile/masterchip">
-    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=masterchip" width="95%" alt="(solve.ac stat)"/>
-  </a>
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=masterchip" width="500px" alt="(solve.ac stat)"/> </a>
 </p>
 
 ## 🐦 Links
