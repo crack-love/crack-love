@@ -21,7 +21,6 @@
 
 ## :rabbit2: Attributes
 - Unity Engine
-  - Target for 2D/3D, Mobile/PC, Game/Stimulation
   - HLSL Shader (Forward/Deferred Rendering)
   - Editor GUI (IMGUI)
   - GPU Computing (Compute Shader)
