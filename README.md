@@ -36,7 +36,7 @@
   - Korea Agency for Defense Developmemt
 - Serial Image Deep Learning Translation (CNN, Keras)
 ### Univercity Projects
-- Design and Implement Education Web Service System (Jave)
+- Design and Implement Education Web Service System (Java)
 - Web portal parsing and analysing trends (Oracle DB)
 ### Personal
 - Voxel Geometry Seamless Openworld game core (Unity 3D)
