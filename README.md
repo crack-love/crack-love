@@ -9,6 +9,7 @@
 <!-- youtube https://www.youtube.com/channel/UCrjMFJE_rUYMhpmK6-20lYQ -->
 
 ## 🐤 Stats
+
 <p align=left>
   <img width=210px alt=(git commit stat) src="https://github-readme-stats.vercel.app/api?username=crack-love&count_private=true&theme=radical&show_icons=true&hide_title=false&include_all_commits=false&hide_rank=false&custom_title=Git%20Stats&line_height=22&hide_rank=true" />
   <img width=290px alt="(git langs stat)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crack-love&theme=radical&hide_title=false&langs_count=6&layout=compact"/>
@@ -19,25 +20,33 @@
 </p>
 
 ## :rabbit2: Attributes
-- Kumoh National Institute of Technology Bachelor's dgree
-  - Computer Software Engineering
 - Unity Engine
+  - Target for 2D/3D, Mobile/PC, Game/Stimulation
   - HLSL Shader (Forward/Deferred Rendering)
-  - GPU Computing (Compute Shader)
   - Editor GUI (IMGUI)
+  - GPU Computing (Compute Shader)
 - Unreal Engine basic
 - Dotnet Windows Forms
+
+### Other Skills
 - Voxel Geometry (MarchingCubes algorithm)
-- CNN (Keras)
+- Deep Learning (CNN, Keras)
+
+### Course
+- Kumoh National Institute of Technology Bachelor's dgree
+  - Computer Software Engineering
 
 ## :cat2: Projects
+
 ### Research 
 - Military Equipment Performance Test Stimulation (Unity 3D)
   - Korea Agency for Defense Developmemt
 - Serial Image Deep Learning Translation (CNN, Keras)
+
 ### Univercity Projects
 - Design and Implement Education Web Service System (Java)
 - Web portal parsing and analysing trends (Oracle DB)
+
 ### Personal
 - Voxel Geometry Seamless Openworld game core (Unity 3D)
 - Schedule Management Program (.Net Windows Forms)
@@ -45,6 +54,7 @@
 - Auto analysing rhythm game (Java Swing)
 
 ## 🐦 Links
+
 <p align="left">
   <a href="https://blog.naver.com/masterchip">
   <img width=70px height=20px alt="Tech Blog Badge" src="http://img.shields.io/badge/Tech%20blog-brightgreen?style=flat&logo=naver&logoColor=white"/></a>
