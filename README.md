@@ -22,7 +22,7 @@
 ## :rabbit2: Attributes
 - Unity Engine
   - HLSL Shader (Forward/Deferred Rendering)
-  - Editor GUI (IMGUI)
+  - Editor GUI
   - GPU Computing (Compute Shader)
 - Unreal Engine basic
 - Dotnet Windows Forms
