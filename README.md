@@ -55,22 +55,22 @@
 ## 🐦 Links
 
 <p align="left">
-  <a target="_blank" href="https://blog.naver.com/masterchip">
+  <a href="https://blog.naver.com/masterchip">
     <img width=70px height=20px alt="Tech Blog Badge" src="http://img.shields.io/badge/Tech%20blog-brightgreen?style=flat&logo=naver&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://github.com/crack-love">
+  <a href="https://github.com/crack-love">
     <img width=70px height=20px alt="Github Badge" src="https://img.shields.io/badge/GitHub-737373?style=flat&logo=GitHub"/>
   </a>
-  <a target="_blank" href="https://www.youtube.com/channel/UCrjMFJE_rUYMhpmK6-20lYQ">
+  <a href="https://www.youtube.com/channel/UCrjMFJE_rUYMhpmK6-20lYQ">
     <img width=70px height=20px alt="Youtube Badge" src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube"/>
   </a>
-  <a target="_blank" href="https://solved.ac/masterchip">
+  <a href="https://solved.ac/masterchip">
     <img width=70px height=20px alt="Solved.ac Badge" src="https://img.shields.io/badge/Solved.ac-27e2a4?style=flat&logo=Speedtest"/>
   </a>  
-  <a target="_blank" href="mailto://masterchip@naver.com">
+  <a href="mailto://masterchip@naver.com">
     <img width=70px height=20px alt="Mail Badge" src="https://img.shields.io/badge/Mailto-60abd1?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://github.com/crack-love">
+  <a href="https://github.com/crack-love">
     <img alt="Hits Badge" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrack-love%2F&count_bg=%2332A852&title_bg=%2332A852&icon=mediafire.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
   </a>
 </p>
