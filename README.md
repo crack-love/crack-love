@@ -11,12 +11,13 @@
 ## 🐤 Stats
 
 <p align=left>
-  <img width=210px alt=(git commit stat) src="https://github-readme-stats.vercel.app/api?username=crack-love&count_private=true&theme=radical&show_icons=true&hide_title=false&include_all_commits=false&hide_rank=false&custom_title=Git%20Stats&line_height=22&hide_rank=true" />
-  <img width=290px alt="(git langs stat)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crack-love&theme=radical&hide_title=false&langs_count=6&layout=compact"/>
-</p>
-<p align=left>
+  <img width=500px alt="(Git commit stat)" src="https://github-readme-stats.vercel.app/api?username=crack-love&count_private=true&theme=radical&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=false&custom_title=Git%20Stats&line_height=25"/>
+  <br/>
+  <img width=500px alt="(Git lang stat)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crack-love&theme=radical&hide_title=true&langs_count=6&layout=compact"/>
+  <br/>
   <a href="https://solved.ac/profile/masterchip">
-  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=masterchip" width="500px" alt="(solve.ac stat)"/> </a>
+    <img width=500px alt="(solve.ac stat)" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=masterchip"/> 
+  </a>
 </p>
 
 ## :rabbit2: Attributes
