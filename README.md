@@ -9,12 +9,13 @@
 <!-- youtube https://www.youtube.com/channel/UCrjMFJE_rUYMhpmK6-20lYQ -->
 
 ## 🐤 Stats
-
 <p align=left>
+  <!--
   <img width=500px alt="(Git commit stat)" src="https://github-readme-stats.vercel.app/api?username=crack-love&count_private=true&theme=radical&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=false&custom_title=Git%20Stats&line_height=25"/>
   <br/>
   <img width=500px alt="(Git lang stat)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crack-love&theme=radical&hide_title=true&langs_count=6&layout=compact"/>
   <br/>
+  -->
   <a href="https://solved.ac/profile/masterchip">
     <img width=500px alt="(solve.ac stat)" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=masterchip"/> 
   </a>
